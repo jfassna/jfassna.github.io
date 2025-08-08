@@ -1,0 +1,17 @@
+Tekton — Company Fact Sheet
+Updated: August 07, 2025
+
+Who we are
+- A fictional company site for MGMT 382 project.
+- Mission: Make our professor smile with clean, valid HTML.
+
+Quick timeline
+- 2021: Founded
+- 2024: Hit 1,000 happy customers
+- 2025: Launched new services
+
+Fast stats
+- Employees: 8
+- HQ: West Lafayette, IN
+- Contact: jtek@tekton.com
+	   pton@tekton.com
